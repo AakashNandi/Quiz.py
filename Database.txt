@@ -1,0 +1,4 @@
+Created a database named 'myquizdb'
+
+Created two tables: dsa_questions and registered_user
+
